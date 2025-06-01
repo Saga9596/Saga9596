@@ -1,4 +1,4 @@
-![Sagar Siripuram Banner](https://raw.githubusercontent.com/Saga9596/Saga9596/main/banner.png)
+![Sagar Siripuram Banner](https://raw.githubusercontent.com/Saga9596/Saga9596/main/Banner.png)
 
 # 👋 Hey there, I'm Sagar Siripuram (Saga9596)
 
