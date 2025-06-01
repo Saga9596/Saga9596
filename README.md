@@ -1,4 +1,4 @@
-![Sagar Siripuram - Sustainability Analyst](./banner.png)
+![Sagar Siripuram - Sustainability Analyst](.banner.png)
 # 👋 Hey there, I'm Sagar Siripuram (Saga9596)
 
 🌿 **Sustainability Analyst | Environmental Engineer | Impact-Driven Innovator**
