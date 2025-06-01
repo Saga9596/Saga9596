@@ -1,4 +1,4 @@
-![Sagar Siripuram - Sustainability Analyst](.banner.png)
+![Sagar Banner](https://raw.githubusercontent.com/Saga9596/Saga9596/main/banner.png)
 # 👋 Hey there, I'm Sagar Siripuram (Saga9596)
 
 🌿 **Sustainability Analyst | Environmental Engineer | Impact-Driven Innovator**
