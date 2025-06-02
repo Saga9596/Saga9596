@@ -34,12 +34,6 @@ I’m on a mission to redefine how we think about materials, design, and climate
 - **Econexafolia** – R&D for an organic material blend to reduce indoor pollutants  
   > *(Details withheld for IP protection. Collaboration welcome.)*
 
-- **Wearable Air Purifier Helmet** – Conceptual smart headgear with modular air filters and live AQ display  
-  > *(Prototype in progress. Disclosure on request.)*
-
-- **Construction Waste Marketplace** – Platform to enable circular reuse of excess site materials  
-  > *(Research and feasibility stage. B2B/B2C integration potential.)*
-
 ---
 
 ## 🛠 Skills & Tools
@@ -65,15 +59,6 @@ I’m on a mission to redefine how we think about materials, design, and climate
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saga9596&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saga9596&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saga9596&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saga9596&theme=react-dark)
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sagar-siripuram)  
@@ -86,3 +71,12 @@ I’m on a mission to redefine how we think about materials, design, and climate
 ## 💬 Quote I Live By
 
 > _“I’m not here to count emissions. I’m here to cut them — smart, fast, and humanely.”_
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saga9596&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saga9596&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saga9596&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saga9596&theme=react-dark)
