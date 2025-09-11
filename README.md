@@ -1,4 +1,4 @@
-![Sagar Siripuram Banner](https://raw.githubusercontent.com/Saga9596/Saga9596/main/Banner.png)
+![Sagar Siripuram Banner](https://)
 
 # 👋 Hey there, I'm Sagar Siripuram
 
