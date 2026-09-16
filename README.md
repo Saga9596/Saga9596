@@ -73,6 +73,7 @@ I’m on a mission to redefine how we think about materials, design, and climate
 > _“I’m not here to count emissions. I’m here to cut them — smart, fast, and humanely.”_
 
 ---
+[![Soe - Soldiers of Earth on SOE](https://www.soldiersofearth.com/api/products/2205be42-095b-4166-a0da-630ed56ea9a3/badge?theme=dark&style=full)](https://www.soldiersofearth.com/products/soe-soldiers-of-earth)
 
 ## 📊 GitHub Stats
 
